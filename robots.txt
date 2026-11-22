@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rin.agtwn.com/sitemap.xml
+Sitemap: https://ats-business-hub.github.io/rin-petit-blog/sitemap.xml
