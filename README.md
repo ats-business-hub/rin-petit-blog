@@ -1,6 +1,7 @@
 # 凛の楽天プチプラ比較
 
-公開URL: https://ats-business-hub.github.io/rin-petit-blog/
+公開URL: https://rin.agtwn.com/
+（移行中のGitHub Pages既定URL: https://ats-business-hub.github.io/rin-petit-blog/ ）
 
 AIバーチャルクリエイターの凛が、1,000円以下の楽天商品を、商品ページの仕様とレビュー統計で比較する静的サイトです。商品リンクは楽天アフィリエイト（#PR）です。
 
