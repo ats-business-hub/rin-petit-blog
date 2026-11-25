@@ -70,3 +70,4 @@ th { background: var(--chip); }
 .site-footer a { color: var(--muted); }
 ul.plain { padding-left: 1.2em; }
 .updated { font-size: .82rem; color: var(--muted); }
+.related{margin-top:2rem;border-top:1px solid #e5e5e5;padding-top:1rem}.related h2{font-size:1.1rem}.related li{margin:.4rem 0}
